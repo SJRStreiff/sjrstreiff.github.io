@@ -1,0 +1,18 @@
+<header id="site-header">
+  {% unless page.title == "Home" %}
+  <div class="site-title-block">
+    <a class="site-title" href="/">{{ site.title }}</a>
+    <small>
+      {% if site.tagshort %}{{ site.tagshort }}{% else %}{{ site.taglong }}{% endif %}
+    </small>
+  </div>
+  {% endunless %}
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    {% if site.profile.cv != false %}<a href="/cv/">CV</a>{% endif %}
+    {% if site.profile.publications != false %}<a href="/publications/">Publications</a>{% endif %}
+    {% if site.profile.recordcurator != false %}<a href="/recordcurator/">RecordCurator</a>{% endif %}
+
+  </nav>
+  <a id="theme-toggle" class="toggle-icon" onclick="modeSwitcher()"></a>
+</header>

@@ -1,4 +1,47 @@
-title: My Site
-description: My first Jekyll site on GitHub Pages
-theme: minima
+title: S. J. R. Streiff
+description: S. J. R. Streiff's website
+baseurl: ""
+url: https::/SJRStreiff.github.io/
 
+theme: cvless
+
+# site settings
+taglong:  
+tagshort:  
+
+# author settings
+author:
+  name: S. J. R. Streiff
+  email: sjrstreiff at gmail dot com 
+photo: assets/images/prof_web.jpg
+joblines:
+  - Sukkulenten-Sammlung Zürich
+  
+
+
+
+# profile links
+profile:
+  publications: true
+  cv: true
+  orcid: https://orcid.org/
+  github: https://github.com/SJRStreiff
+  
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
