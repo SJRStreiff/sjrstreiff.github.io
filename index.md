@@ -5,7 +5,7 @@ title: Home
 
 
 
-I'm an evolutionary botanists interested in understanding the fundamental mechanisms shaping the assembly, persistence and potential decline of plant diversity over time. To do this, I integrate approaches from taxonomy and biodiversity informatics (curating digitised herbarium specimen records, taxonomy), macroevolution (phylogenetics, biogeographical reconstructions and analyses of diversification rates), macroecology (species distribution modelling, analyses of species richness patterns) and biogeoscience (paleoclimatic and tectonic reconstructions) into common frameworks using Bayesian statistics.
+I'm an evolutionary botanists interested in understanding the fundamental mechanisms shaping the assembly, persistence and potential decline of plant diversity over time. To do this, I integrate approaches from taxonomy and biodiversity informatics (curating digitised herbarium specimen records, taxonomy), macroevolution (phylogenetics, biogeographical reconstructions and analyses of diversification rates), macroecology (species distribution modelling, analyses of species richness patterns) and biogeoscience (paleoclimatic and tectonic reconstructions) into common frameworks, frequently using Bayesian statistics.
 
 Take a look at my publications, predominantly focusing on Annonaceae and Connaraceae taxonomy, evolution and biogeography [here](/publications/), or dive into the RecordCurator software documentation (under development) [here](/recordcurator)
 

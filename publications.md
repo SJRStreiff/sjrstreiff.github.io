@@ -12,6 +12,12 @@ title: Publications
 
 **Streiff, S.J.R.** and de Vos, J.M. (2026) *Dispersal and delimitation: Phylogenomics of Connaraceae prompts revised generic delimitation in Cnestideae and reveals global biogeographic patterns*, TAXON, 75(2), p. e70101. [Available Open Access](https://doi.org/10.1002/tax.70101)
 
+Holzmeyer, L., Nge, F.J., Guerrero, S.A., Armstrong, K.E., Bazante, M.L., Bijmoer, R., Borosova, R., Bruy, D.D., Bunchalee, P., Chaowasku, T., Chatrou, L.W., Chen, J., Dagallier, L.-P.M.J., Damthongdee, A., Erkens, R.H.J., Fabriani, F., Fonseca, L.H.M., Gaudeul, M., Hoekstra, P.H., Johnson, D.M., Lautenschläger, T., Leeratiwong, C., Liu, M.-F., Lobão, A.A.Q., Lopes, J.C., Mariac, C., Martínez-Velarde, M.F., Mercier, K.P., Michelangeli, F.A., Montúfar, R., Munzinger, J.J., Murray, N.A., Ortiz-Rodriguez, A.E., Pérez, Á.J., Pirie, M.D., Rainer, H., Rakotoarinivo, M., Rodrigues-Vaz, C., **Streiff, S.J.R.**, Strijk, J.S., Tardif, D., Thomas, D.C., Patipe, A.T., Wieringa, J.J., Zapata, J.N., Sepulchre, P., Condamine, F.L., & Couvreur, T.L.P. (2026) *Macroevolutionary dynamics and predictors of tropical rain forest plant diversity*, Science Advances. [Available Open Access](https://doi.org/10.1126/sciadv.aee4197)
+
+
+Erkens, R.H.J., Couvreur, T.L.P., Nge, F.J., **Streiff, S.J.R.**, Lardinois, R.R.H.G., & Maas, P.J.M. (2026) *Edaphic isolation as a driver of divergence in a new Amazonian species of Diclinanona (Annonaceae)*, TAXON 75: e70163. [Available Open Access](https://doi.org/10.1002/tax.70163)
+
+
 ## 2025
 
 **Streiff, S.J.R.**, Erkens, R.H.J. and Couvreur, T.L.P. (2025) *The Evolutionary Legacy of Al Gentry: Uniting Patterns and Processes of Neotropical Rainforest Evolution*, Annals of the Missouri Botanical Garden, 110, pp. 200–216. [Available Open Access](https://doi.org/10.3417/2025944)
